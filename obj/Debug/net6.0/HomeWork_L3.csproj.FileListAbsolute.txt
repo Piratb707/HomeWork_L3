@@ -1,0 +1,15 @@
+C:\Обучение\C#\HomeWork_L3\bin\Debug\net6.0\HomeWork_L3.exe
+C:\Обучение\C#\HomeWork_L3\bin\Debug\net6.0\HomeWork_L3.deps.json
+C:\Обучение\C#\HomeWork_L3\bin\Debug\net6.0\HomeWork_L3.runtimeconfig.json
+C:\Обучение\C#\HomeWork_L3\bin\Debug\net6.0\HomeWork_L3.dll
+C:\Обучение\C#\HomeWork_L3\bin\Debug\net6.0\HomeWork_L3.pdb
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\HomeWork_L3.csproj.AssemblyReference.cache
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\HomeWork_L3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\HomeWork_L3.AssemblyInfoInputs.cache
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\HomeWork_L3.AssemblyInfo.cs
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\HomeWork_L3.csproj.CoreCompileInputs.cache
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\HomeWork_L3.dll
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\refint\HomeWork_L3.dll
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\HomeWork_L3.pdb
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\HomeWork_L3.genruntimeconfig.cache
+C:\Обучение\C#\HomeWork_L3\obj\Debug\net6.0\ref\HomeWork_L3.dll
